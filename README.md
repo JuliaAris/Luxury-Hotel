@@ -1,14 +1,1 @@
-sass --watch styles/index.scss styles/css/index.css
-
-Сайт Luxury hotels
-сайт об отеле, состоит из пяти блоков
-
-шапка сайта- Елена
-все наши комнаты - Жанна
-отзывы - Юля
-варианты размещения - Юля
-футер - Евгения
-
-Блоки шапка сайта, все наши комнаты, футер сверстаны с помощью Grid
-Блоки отзывы, варианты размещения с помощью Flex
-Сайт адаптивен, активные кнопки и ссылки
+![Иллюстрация к проекту](https://github.com/JuliaAris/Luxury-Hotel/raw/master/assets/Luxury_hotels_screens/first_screen)
